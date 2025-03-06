@@ -1,5 +1,7 @@
 # UNEVEN-TERRAIN-AMPLITUDE README
 
+[DOI: 10.5281/zenodo.14977254](https://doi.org/10.5281/zenodo.14977254)
+
 This repository contains data for Hosseini-Yazi & Kuo (2025). The energetic cost of human walking as a function of uneen terrain amplitude, *Journal of Experimental Biology* 228, jeb249840. [https://doi:10.1242/jeb.249840](https://doi:10.1242/jeb.249840).
 
 The data consist of kinematic data, work performed on the body center of mass, and net metabolic rate (via expired gas respirometry), for young healthy adults (N=10) walking a range of four speeds and on four uneven terrain amplitudes. Details of the uneven terrain treadmill are available in a previous publication <https://doi.org/10.1016/j.jbiomech.2024.112376>.
