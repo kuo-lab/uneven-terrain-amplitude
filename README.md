@@ -1,6 +1,6 @@
 # UNEVEN-TERRAIN-AMPLITUDE README
 
-[DOI: 10.5281/zenodo.14977254](https://doi.org/10.5281/zenodo.14977254)
+![](https://zenodo.org/badge/DOI/10.5281/zenodo.14977254.svg)
 
 This repository contains data for Hosseini-Yazi & Kuo (2025). The energetic cost of human walking as a function of uneen terrain amplitude, *Journal of Experimental Biology* 228, jeb249840. [https://doi:10.1242/jeb.249840](https://doi:10.1242/jeb.249840).
 
